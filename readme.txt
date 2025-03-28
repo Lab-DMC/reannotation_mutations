@@ -1,0 +1,1 @@
+The main.R file contains the code for the clustering methods developed for the discovery of interesting synonymous mutations. The output will be an excel file with the results for skin cancer melanoma described in the paper. The R functions are also shared to make the analysis reproducible. 
